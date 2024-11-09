@@ -1,14 +1,14 @@
 ![snake_gif](https://github.com/Galangxyz/Galangxyz/blob/output/github-snake-dark.svg)
 
 # Welcome🚀
-<a href ="https://galang.xyz"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/d0/a8/16d0a81b9f38ea3838abcbc0da83c9f0.gif"></a>
+<a href ="https://galang.xyz"><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/d0/a8/16d0a81b9f38ea3838abcbc0da83c9f0.gif"></a>
 
 [![MasterHead](https://i.pinimg.com/originals/9f/9a/30/9f9a300c5fb90f5e6a81ab8775d3026a.gif)](https://galang.xyz)
 
 <h1 align="center">Hi 👋, I'm M Galang Febriansyah Pratama</h1>
 
 <h3>🌍 Learn basic coding</h3>
-<a href ="https://galang.xyz"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e2/82/42/e282424b2847885602230435e6aff1cc.gif"></a>
+<a href ="https://galang.xyz"><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e2/82/42/e282424b2847885602230435e6aff1cc.gif"></a>
 
 [![MasterHead](https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif)](https://galang.xyz)
 
@@ -60,4 +60,4 @@
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 #
-<a href ="https://github.com/Galangxyz"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/56/7f/00/567f0061446aa28a94721679278bec24.gif"></a> 
+<a href ="https://github.com/Galangxyz"><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/56/7f/00/567f0061446aa28a94721679278bec24.gif"></a> 
