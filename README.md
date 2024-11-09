@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/gsap_05" target="blank"><img src="https://img.shields.io/twitter/follow/gsap_05?logo=twitter&style=for-the-badge" alt="gsap_05" /></a> </p>
 
-- 🔗 search Google **https://www.google.com/search?q=m+galang+febriansyah+pratama&sca_esv=93511a360aacf6ef&sxsrf=ADLYWIKST0bUA6P1j4thSWnT7xrH00mNog%3A1731161558424&ei=1m0vZ7WzGdeOseMP8IP42AY&oq=m&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIgFtKgIIADIEECMYJzIEECMYJzILEAAYgAQYsQMYgwEyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDAUilEVAoWIIIcAF4AJABAZgBvAKgAYAEqgEHMC4xLjAuMbgBAcgBAPgBAZgCAqAC_gKoAg_CAgcQIxgnGOoCmAMmkgcFMS4zLTGgB8cM&sclient=mobile-gws-wiz-serp**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 - 🌱 I’m currently learning **HTML,CSS ,JAVASCRIPT ,PHP ,FLASK ,TERMUX ,APACHE2 ,MYSQL**
 
