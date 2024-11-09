@@ -1,3 +1,4 @@
+![snake gif](https://github.com/Galangxyz/Galangxyz/blob/output/github-contribution-grid-snake.gif)
 # Welcome🚀
 <a href ="https://galang.xyz"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/d0/a8/16d0a81b9f38ea3838abcbc0da83c9f0.gif"></a>
 
