@@ -1,3 +1,5 @@
+<a href ="https://galang.xyz"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b8/30/dd/b830dda81c37c816c8c1b83751e74916.gif"></a>
+
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://galang.xyz)
 
 <h1 align="center">Hi 👋, I'm M Galang Febriansyah Pratama</h1>
