@@ -1,3 +1,5 @@
+![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
+
 # Welcome🚀
 <a href ="https://galang.xyz"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/d0/a8/16d0a81b9f38ea3838abcbc0da83c9f0.gif"></a>
 
