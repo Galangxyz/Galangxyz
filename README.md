@@ -1,11 +1,13 @@
-<a href ="https://galang.xyz"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b8/30/dd/b830dda81c37c816c8c1b83751e74916.gif"></a>
+<a href ="https://galang.xyz"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/d0/a8/16d0a81b9f38ea3838abcbc0da83c9f0.gif"></a>
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://galang.xyz)
+[![MasterHead](https://i.pinimg.com/originals/9f/9a/30/9f9a300c5fb90f5e6a81ab8775d3026a.gif)](https://galang.xyz)
 
 <h1 align="center">Hi 👋, I'm M Galang Febriansyah Pratama</h1>
 
 <h3 align="center">Learn basic coding</h3>
 <a href ="https://galang.xyz"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e2/82/42/e282424b2847885602230435e6aff1cc.gif"></a>
+
+[![MasterHead](https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif)](https://galang.xyz)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galangxyz&label=Profile%20views&color=0e75b6&style=flat" alt="galangxyz" /> </p>
 
