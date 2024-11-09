@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm M Galang Febriansyah Pratama</h1>
 <h3 align="center">Learn basic coding</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e2/82/42/e282424b2847885602230435e6aff1cc.gif">
+<a href ="https://galang.xyz"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e2/82/42/e282424b2847885602230435e6aff1cc.gif"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galangxyz&label=Profile%20views&color=0e75b6&style=flat" alt="galangxyz" /> </p>
 
