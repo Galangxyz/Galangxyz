@@ -8,6 +8,19 @@
 <h1 align="center">Hi 👋, I'm M Galang Febriansyah Pratama</h1>
 
 <h3>🌍 Learn basic coding</h3>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+- 📝 I regularly write articles on [https://code.mataberita.com](https://code.mataberita.com)
+
+- 💬 Ask me about **TERMUX, Coding in Android**
+
+- 📫 How to reach me **fplang89@gmail.com**
+
+- 📝 I regularly write articles 2 on [https://www.mataberita.com](https://www.mataberita.com)
+
+- ⚡ Fun fact **Coding in the Hand: With Termux, you can code directly from your cellphone without needing a laptop. Many popular programming languages ​​such as Python, Node.js, and Ruby can be installed and used on Termux.**
+
 <a href ="https://galang.xyz"><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e2/82/42/e282424b2847885602230435e6aff1cc.gif"></a>
 
 [![MasterHead](https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif)](https://galang.xyz)
@@ -39,18 +52,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Galangxyz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-- 📝 I regularly write articles on [https://code.mataberita.com](https://code.mataberita.com)
-
-- 💬 Ask me about **TERMUX, Coding in Android**
-
-- 📫 How to reach me **fplang89@gmail.com**
-
-- 📝 I regularly write articles 2 on [https://www.mataberita.com](https://www.mataberita.com)
-
-- ⚡ Fun fact **Coding in the Hand: With Termux, you can code directly from your cellphone without needing a laptop. Many popular programming languages ​​such as Python, Node.js, and Ruby can be installed and used on Termux.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
