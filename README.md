@@ -1,31 +1,36 @@
 ![snake_gif](https://github.com/Galangxyz/Galangxyz/blob/output/github-snake-dark.svg)
 
-# Welcome🚀
+# :neckbeard: Welcome :trollface:
 <a href ="https://galang.xyz"><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/d0/a8/16d0a81b9f38ea3838abcbc0da83c9f0.gif"></a>
 
 [![MasterHead](https://i.pinimg.com/originals/9f/9a/30/9f9a300c5fb90f5e6a81ab8775d3026a.gif)](https://galang.xyz)
 
-<h1 align="center">Hi 👋, I'm M Galang Febriansyah Pratama</h1>
+~~<h1 align="center">:octocat:Hi 👋, I'm M Galang Febriansyah Pratama:octocat:</h1>~~
 
 <h3>🌍 Learn basic coding</h3>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-- 📝 I regularly write articles on [https://code.mataberita.com](https://code.mataberita.com)
+- 📝 Articles 1 on [https://code.mataberita.com](https://code.mataberita.com)
 
 - 💬 Ask me about **TERMUX, Coding in Android**
 
 - 📫 How to reach me **fplang89@gmail.com**
 
-- 📝 I regularly write articles 2 on [https://www.mataberita.com](https://www.mataberita.com)
+- 📝 Articles 2 on [https://www.mataberita.com](https://www.mataberita.com)
 
-- ⚡ Fun fact **Coding in the Hand: With Termux, you can code directly from your cellphone without needing a laptop. Many popular programming languages ​​such as Python, Node.js, and Ruby can be installed and used on Termux.**
+- ⚡ Fun fact **: Dengan Termux, kamu bisa coding langsung dari ponsel tanpa memerlukan laptop. Banyak bahasa pemrograman populer seperti Python, Node.js, dan Ruby yang dapat diinstal dan digunakan di Termux.**
+
+> [!NOTE]
+> [Page Google Search.](https://www.google.com/search?q=m+galang+febriansyah+pratama&oq=m+&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgYIAhBFGDwyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg8Mg0ICBAAGIMBGLEDGIAEMgcICRAAGIAEMgcIChAAGIAEMg0ICxAAGIMBGLEDGIAEMgcIDBAAGIAEMg0IDRAuGIMBGLEDGIAEMgoIDhAAGLEDGIAE0gEIMTU1MGowajSoAg6wAgE&sourceid=chrome-mobile&ie=UTF-8)
 
 <a href ="https://galang.xyz"><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e2/82/42/e282424b2847885602230435e6aff1cc.gif"></a>
 
 [![MasterHead](https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif)](https://galang.xyz)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galangxyz&label=Profile%20views&color=0e75b6&style=flat" alt="galangxyz" /> </p>
+
+![My Cat](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <p align="left"> <a href="https://twitter.com/gsap_05" target="blank"><img src="https://img.shields.io/twitter/follow/gsap_05?logo=twitter&style=for-the-badge" alt="gsap_05" /></a> </p>
 
