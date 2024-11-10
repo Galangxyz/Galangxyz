@@ -1,4 +1,3 @@
-
 ![snake_gif](https://github.com/Galangxyz/Galangxyz/blob/output/github-snake-dark.svg)
 
 # :neckbeard: Welcome :trollface:
