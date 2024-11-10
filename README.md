@@ -1,15 +1,17 @@
 ![snake_gif](https://github.com/Galangxyz/Galangxyz/blob/output/github-snake-dark.svg)
 
+
 # :neckbeard: Welcome :trollface:
 <a href ="https://galang.xyz"><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/d0/a8/16d0a81b9f38ea3838abcbc0da83c9f0.gif"></a>
 
 [![MasterHead](https://i.pinimg.com/originals/9f/9a/30/9f9a300c5fb90f5e6a81ab8775d3026a.gif)](https://galang.xyz)
 
+
 <h1 align="center">:octocat:Hi 👋, I'm M Galang Febriansyah Pratama:octocat:</h1>
 
 ![ezgif com-reverse](https://github.com/user-attachments/assets/561c80f2-e69e-43e5-b11c-89c0609d20e6)
 
-<h3>🌍 Learn basic coding</h3>
+# 🌍 Learn basic coding
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
@@ -21,10 +23,12 @@
 
 - 📝 Articles 2 on [https://www.mataberita.com](https://www.mataberita.com)
 
-- ⚡ Fun fact **: Dengan Termux, kamu bisa coding langsung dari ponsel tanpa memerlukan laptop. Banyak bahasa pemrograman populer seperti Python, Node.js, dan Ruby yang dapat diinstal dan digunakan di Termux.**
+> - ⚡ Fun fact **: Dengan Termux, kamu bisa coding langsung dari ponsel tanpa memerlukan laptop. Banyak bahasa pemrograman populer seperti Python, Node.js, dan Ruby yang dapat diinstal dan digunakan di Termux.**
 
 > [!NOTE]
 > [Page Google Search.](https://www.google.com/search?q=m+galang+febriansyah+pratama&oq=m+&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgYIAhBFGDwyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg8Mg0ICBAAGIMBGLEDGIAEMgcICRAAGIAEMgcIChAAGIAEMg0ICxAAGIMBGLEDGIAEMgcIDBAAGIAEMg0IDRAuGIMBGLEDGIAEMgoIDhAAGLEDGIAE0gEIMTU1MGowajSoAg6wAgE&sourceid=chrome-mobile&ie=UTF-8)
+
+---
 
 <a href ="https://galang.xyz"><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e2/82/42/e282424b2847885602230435e6aff1cc.gif"></a>
 
