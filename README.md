@@ -5,7 +5,8 @@
 
 [![MasterHead](https://i.pinimg.com/originals/9f/9a/30/9f9a300c5fb90f5e6a81ab8775d3026a.gif)](https://galang.xyz)
 
-~~<h1 align="center">:octocat:Hi 👋, I'm M Galang Febriansyah Pratama:octocat:</h1>~~
+<h1 align="center">:octocat:Hi 👋, I'm M Galang Febriansyah Pratama:octocat:</h1>
+
 ![ezgif com-reverse](https://github.com/user-attachments/assets/561c80f2-e69e-43e5-b11c-89c0609d20e6)
 
 https://github.com/user-attachments/assets/7ec5b22a-6d53-4ecc-9600-633990aeb9a2
