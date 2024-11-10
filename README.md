@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="kiev_5jFfEnG2CQMLB1u98rSbubPdWXFNWdM97iGQIM" />
+
 ![snake_gif](https://github.com/Galangxyz/Galangxyz/blob/output/github-snake-dark.svg)
 
 # :neckbeard: Welcome :trollface:
