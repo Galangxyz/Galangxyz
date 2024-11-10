@@ -1,5 +1,18 @@
 ![snake_gif](https://github.com/Galangxyz/Galangxyz/blob/output/github-snake-dark.svg)
 
+Table of Contents
+=================
+
+* [<img class="emoji" title=":neckbeard:" alt=":neckbeard:" src="https://github.githubassets.com/images/icons/emoji/neckbeard.png" height="20" width="20" align="absmiddle"> Welcome <img class="emoji" title=":trollface:" alt=":trollface:" src="https://github.githubassets.com/images/icons/emoji/trollface.png" height="20" width="20" align="absmiddle">](#neckbeard-welcome-trollface)
+* [<img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle">Hi 👋, I'm M Galang Febriansyah Pratama<img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle">](#octocathi--im-m-galang-febriansyah-pratamaoctocat)
+* [🌍 Learn basic coding](#-learn-basic-coding)
+   * [🌐 Socials:](#-socials)
+* [💻 Tech Stack:](#-tech-stack)
+* [📊 GitHub Stats:](#-github-stats)
+   * [🏆 GitHub Trophies](#-github-trophies)
+      * [✍️ Random Dev Quote](#️-random-dev-quote)
+      * [🔝 Top Contributed Repo](#-top-contributed-repo)
+      * [Connect with me:](#connect-with-me)
 
 # :neckbeard: Welcome :trollface:
 <a href ="https://galang.xyz"><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/d0/a8/16d0a81b9f38ea3838abcbc0da83c9f0.gif"></a>
