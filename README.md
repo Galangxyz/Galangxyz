@@ -65,7 +65,7 @@ https://github.com/user-attachments/assets/7ec5b22a-6d53-4ecc-9600-633990aeb9a2
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gsap_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gsap_05" height="30" width="40" /></a>
-<a href="/https://feeds.feedburner.com/mataberita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://feeds.feedburner.com/mataberita" height="30" width="40" /></a>
+<a href="https://feeds.feedburner.com/mataberita/vfvwn6w9hf2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://feeds.feedburner.com/mataberita" height="30" width="40" /></a>
 </p>
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
