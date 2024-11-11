@@ -11,7 +11,10 @@
 ![snake_gif](https://github.com/Galangxyz/Galangxyz/blob/output/github-snake-dark.svg)
 
 <h4 align="center">Visitor's:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Galangxyz}/count.svg" alt="Galangxyz :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Galangxyz}/count.svg" alt="Galangxyz :: Visitor's Count" />
+<a href="https://wa.me/message/NWL4BNB6JPN3H1"><img src="https://img.shields.io/badge/WhatsApp-Galang -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+</p>
 
 
 📚 Table of Contents
