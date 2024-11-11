@@ -1,3 +1,13 @@
+<div align="center">
+<a href="https://youtube.com/c/Nazedev">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5000&color=de0d0d&background=FF673200&center=true&vCenter=true&lines=M+Galang+Febriansyah+Pratama;Enjoy,+the+code+bro;Welcome+to+my+GitHub+🌐"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
+
 ![snake_gif](https://github.com/Galangxyz/Galangxyz/blob/output/github-snake-dark.svg)
 
 📚 Table of Contents
