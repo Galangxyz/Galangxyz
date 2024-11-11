@@ -10,6 +10,10 @@
 
 ![snake_gif](https://github.com/Galangxyz/Galangxyz/blob/output/github-snake-dark.svg)
 
+<h4 align="center">Visitor's:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Galangxyz}/count.svg" alt="Galangxyz :: Visitor's Count" /></p>
+
+
 📚 Table of Contents
 =================
 
