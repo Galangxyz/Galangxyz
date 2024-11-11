@@ -12,8 +12,8 @@
 
 <h4 align="center">Visitor's:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Galangxyz}/count.svg" alt="Galangxyz :: Visitor's Count" />
-<a href="https://wa.me/message/NWL4BNB6JPN3H1"><img src="https://img.shields.io/badge/WhatsApp-Galang -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
+<a href="https://wa.me/message/NWL4BNB6JPN3H1"><img src="https://img.shields.io/badge/WhatsApp-Galang -25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+<a href="https://code.mataberita.com"><img src="https://img.shields.io/badge/Blog-Galang -FF5722?style=for-the-badge&logo=blogger&logoColor=FF5722" />
 </p>
 
 
